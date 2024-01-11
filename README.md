@@ -13,7 +13,7 @@ Use the "arrow up," "arrow down," "arrow left," and "arrow right" keys to guide 
 
 
 # Usage example
-![Screen Recording 2024-01-11 at 1 10 11 PM](https://github.com/maisi1120/photo/assets/156170308/bec5f80b-3ed3-4cec-b59b-91addb21853e)
+![Screen Recording 2024-01-11 at 1 10 11 PM (1)](https://github.com/maisi1120/photo/assets/156170308/cb4f0066-8a69-418d-8079-7734525ef049)
 
 
 
