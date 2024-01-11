@@ -1,4 +1,4 @@
-![snake-game copy](https://github.com/maisi1120/photo/assets/156170308/63ad482c-3b5e-40bb-b080-f945ba06c51e)
+![snake-game copy](https://github.com/maisi1120/photo/assets/156170308/616ec541-fcad-4827-846b-0635770c78ca)
 
 
 # Overview
@@ -13,7 +13,8 @@ Use the "arrow up," "arrow down," "arrow left," and "arrow right" keys to guide 
 
 
 # Usage example
-![Screen Recording 2024-01-11 at 1 10 11 PM (1)](https://github.com/maisi1120/photo/assets/156170308/cb4f0066-8a69-418d-8079-7734525ef049)
+![Screen Recording 2024-01-11 at 1 10 11 PM (1)](https://github.com/maisi1120/photo/assets/156170308/ee135687-0ac4-414b-afee-b9bac152b509)
+
 
 
 
